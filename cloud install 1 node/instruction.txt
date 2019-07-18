@@ -40,7 +40,7 @@ Link for download:
     cd ~/
     git clone https://github.com/Jdemon/orcsf-k8s.git
 
-11. Now all workshop is on "/home/<user>/kubernetes_201904"
+11. Now all workshop is on "/home/<user>/orcsf-k8s"
 
 
 *Remark: In case you need to reinitial all this lab again please kindly following command below (*Warnning: This will reset all lab that you had been operate before)
